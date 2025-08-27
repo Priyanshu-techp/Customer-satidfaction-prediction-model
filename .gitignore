@@ -1,0 +1,14 @@
+# push into the git 
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/Priyanshu-techp/Customer-satidfaction-prediction-model.git
+git push -u origin main
+
+
+# update push file 
+
+git add .                    
+git commit -m "Customer setisfection prediction.pptx"   
+git push origin main   
